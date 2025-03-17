@@ -1,4 +1,3 @@
-
 # 👋 Hi! My name is Valentyn
 
 ## 🧑‍💻 SUMMARY
@@ -30,5 +29,5 @@ LinkedIn: [Valentyn Mostovyi](https://www.linkedin.com/in/valentyn-mostovyi/)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white)
