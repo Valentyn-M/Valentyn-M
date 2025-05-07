@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 SUMMARY
 
-I am a full-stack developer actively advancing in the field of front-end development. My key qualities are responsibility, attention to detail, and adaptability. I am constantly striving to learn and grow, mastering cutting-edge technologies.
+I am a fullstack developer actively advancing in the field of frontend development. My key qualities are responsibility, attention to detail, and adaptability. I am constantly striving to learn and grow, mastering cutting-edge technologies.
 
 ## 📫 CONTACTS
 
